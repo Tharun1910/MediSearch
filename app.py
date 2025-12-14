@@ -149,7 +149,7 @@ class HYBRID:
 # STREAMLIT UI
 # =========================
 st.set_page_config(page_title="MediSearch", page_icon="🩺", layout="wide")
-st.title("🩺 MediSearch: Health Information Retrieval (CSC-785)")
+st.title("🩺 MediSearch: Health Information Retrieval")
 st.caption("MedQuAD-based IR system. Not medical advice.")
 
 # Load data
